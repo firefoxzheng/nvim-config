@@ -1,2 +1,2 @@
 # config
-config collection
+neovim config
